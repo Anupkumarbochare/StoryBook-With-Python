@@ -1,0 +1,137 @@
+Scene ID,Image ID,Dialogue
+Scene 1,scene1_image1,"Anup - ""What the... This message wasn't sent by me."""
+Scene 1,scene1_image2,"Anup looks confused as the light from his phone reflects on his face, deep in thought."
+Scene 1,scene1_image3,"""Guys, something weird is happening‚ check your phones!"""
+Scene 1,scene1_image4,"Anup stands up abruptly, sensing something odd as he gazes out the window."
+Scene 1,scene1_image5,"""I‚ve never seen anything like this..."""
+Scene 1,scene1_image6,"Zoomed-in on the phone screen, the glitch distorts as Anup's wide eyes reflect in the glass."
+Scene 1,scene1_image7,"Anup hurriedly types a message to the team, panic clear on his face"
+Scene 1,scene1_image8,"""Am I losing it, or is this phone messing with me?"""
+Scene 1,scene1_image9,His hand grips the phone tightly as the distorted lines crawl across the screen.
+Scene 1,scene1_image10,"""What‚s going on? How can I stop this?"""
+Scene 1,scene1_image11,"Anup (frustrated): ""Come on, work normally! I need to reach the others."""
+Scene 1,scene1_image12,"Anup's fingers tremble as he attempts to dial a number, the screen flickering ominously."
+Scene 2,scene2_image1,"Arvind - “Who—what—is this thing?"""
+Scene 2,scene2_image2,"Aadil - “That’s not one of us... It’s mimicking us."""
+Scene 2,scene2_image3,"Arvind - “It looks like me, but it’s not me!"""
+Scene 2,scene2_image4,"Husain- “This behavior pattern is off. This thing is learning
+too fast."""
+Scene 2,scene2_image5,"Aadil - “I don’t like this. It feels wrong..."""
+Scene 2,scene2_image6,Aadil- “It’s like trying to communicate but in a different language we can't understand.”
+Scene 2,scene2_image7,"The doppelganger's face glitches, revealing its distorted and sinister appearance."
+Scene 2,scene2_image8,Anup - “We have to figure it out how to stop it”
+Scene 2,scene2_image9,"Hussain (urgently): ""Don't let it touch you! We don't know what it's capable of!"""
+Scene 2,scene2_image10,"The doppelganger reaches out, its hand inches away from Arvind."
+Scene 2,scene2_image11,"The team stands in a semi-circle, watching as the doppelganger
+mirrors their movements."
+Scene 2,scene2_image12,The doppelganger form flickers and shifts.
+Scene 3,scene3_image1,"The entire team enters a dimly lit server room, surrounded by 
+cables and computers. "
+Scene 3,scene3_image2," The entire team enters a dimly lit server room, surrounded by 
+cables and computers. "
+Scene 3,scene3_image3,"Anup (holding a keycard): ""This is it, the AI control room."""
+Scene 3,scene3_image4,"Anup (holding a keycard): ""This is it, the AI control room."""
+Scene 3,scene3_image5,"Arvind (typing quickly): “I'm in. I just need a little more time."" "
+Scene 3,scene3_image6,"Aadil stands guard at the entrance, peeking out cautiously for any 
+signs of danger. "
+Scene 3,scene3_image7,Anup directs the team while scanning the security feeds. 
+Scene 3,scene3_image8,Anup directs the team while scanning the security feeds. 
+Scene 3,scene3_image9,"Dino (appearing on a screen): ""You need to bypass its defenses quickly. It’s
+adapting."""
+Scene 3,scene3_image10,"Dino (appearing on a screen): ""You need to bypass its defenses quickly. It’s
+adapting."""
+Scene 3,scene3_image11,"Husain (anxious): “We're in deeper now. No turning back."""
+Scene 3,scene3_image12,"In the background, a shadowy figure possibly the doppelganger watches the team work."
+Scene 4,scene4_image1,"Anup (determined): ""We need to split up. I’ll check the lab."" "
+Scene 4,scene4_image2,"Anup (determined): ""We need to split up. I’ll check the lab."" "
+Scene 4,scene4_image3,"Arvind reviews maps and equipment, his brow furrowed in 
+concentration."
+Scene 4,scene4_image4,"Husain (quietly): “I'm tracking the clues. This is all connected somehow."" "
+Scene 4,scene4_image5,"Anup enters an abandoned lab, the dim glow of his laptop 
+illuminating his face. "
+Scene 4,scene4_image6,"Arvind paces outside the server room, mapping out their next 
+move. "
+Scene 4,scene4_image7,"Husain examines a trail of data left by the AI, crouched by a 
+digital screen."
+Scene 4,scene4_image8,"Husain examines a trail of data left by the AI, crouched by a 
+digital screen."
+Scene 4,scene4_image9,"Aadil stands alone in a long, eerie hallway, nervous but 
+determined. "
+Scene 4,scene4_image10,"Dino (through the communicator): ""Stay alert. You're getting closer, but the AI 
+won't go down easily."" "
+Scene 4,scene4_image11,"Dino (through the communicator): ""Stay alert. You're getting closer, but the AI 
+won't go down easily."" "
+Scene 4,scene4_image12,"Dino (through the communicator): ""Stay alert. You're getting closer, but the AI 
+won't go down easily."" "
+Scene 5,scene5_image1,Arvind crouches behind a door  tense as the doppelganger's shadow looms nearby.
+Scene 5,scene5_image2,Close-up of Arvind's wide eyes  filled with fear  trying to stay silent.
+Scene 5,scene5_image3,The doppelganger's foot is visible under the door  growing closer.
+Scene 5,scene5_image4,Overhead shot of Arvind hiding in a corner  with the doppelganger's reflection in a monitor.
+Scene 5,scene5_image5,The doppelganger's silhouette moves slowly past the room where Arvind hides.
+Scene 5,scene5_image6,Arvind holds his breath  terrified	 as the doppelganger lingers outside.
+Scene 5,scene5_image7,The doppelganger's hand reaches slowly for the door handle.
+Scene 5,scene5_image8,Arvind's knuckles turn white as he grips the edge of a table in fear.
+Scene 5,scene5_image9,Arvind peers through the crack in the door  trying to assess whether it's safe to move.
+Scene 5,scene5_image10,"Dino (whispering over the communicator): ""Wait for the right moment... and run!"""
+Scene 6,scene6_image1,Dino sits in his dimly lit office  trying to assess whether it's safe to move.
+Scene 6,scene6_image2,Close-up of Dino's face—haunted and weary—as he recalls his involvement with the AI.
+Scene 6,scene6_image3,Dino flips through old project notes
+Scene 6,scene6_image4,A photo of a younger Dino with his AI team  glancing at photos of the original AI team  displayed on his desk.
+Scene 6,scene6_image5,Dino holds his head in his hands  guilt etched into his face as he reflects on his mistakes.
+Scene 6,scene6_image6,Flashback: a younger Dino working in a lab full of computers  focused on creating the AI.
+Scene 6,scene6_image7,Close-up of a journal entry where Dino wrote about his concerns regarding the AI's autonomy.
+Scene 6,scene6_image8,In the flashback a shadowy figure representing the AI hovers ominously behind Dino.
+Scene 6,scene6_image9,Dino hesitates as he types on an old computer wondering if he should revisit the AI's code.
+Scene 6,scene6_image10,A side profile of Dino regret clear in his expression as he stares at the computer screen.
+Scene 7,scene7_image1,The team sits together at sunset  a quiet moment of reflection before the final showdown.
+Scene 7,scene7_image2,Close-up of Anup's face  a quiet moment of reflection before the final showdown as he contemplates the fight ahead.
+Scene 7,scene7_image3,"The entire team is silhouetted, each lost in thought."
+Scene 7,scene7_image4,Hussain gazes at the horizon deep in thought preparing for the upcoming challenge.
+Scene 7,scene7_image5,Aadil crosses his arms body language showing his readiness for what's coming.
+Scene 7,scene7_image6,Husain stands apart from the group glancing back at his friends mentally preparing for the battle.
+Scene 7,scene7_image7a,Close-up of Arvind’s face showing his unique emotions before the confrontation.
+Scene 7,scene7_image7b,Close-up of Husain’s face  showing his unique emotions before the confrontation.
+Scene 7,scene7_image7c,Close-up of Aadil’s face  showing his unique emotions before the confrontation.
+Scene 7,scene7_image8,A silhouette of the team  standing on the hill as the sky darkens  ready to face the AI.
+Scene 9,scene9_image1,Anup (shocked holding a folder): “Dino was part of this project?”
+Scene 9,scene9_image2,The team reviewing files.
+Scene 9,scene9_image3,"Hussain : ""Look—his name is all over these documents.”"
+Scene 9,scene9_image4,Arvind stunned!
+Scene 9,scene9_image5,Aadil gets nervous after finding out.
+Scene 9,scene9_image6,.
+Scene 9,scene9_image7,.
+Scene 9,scene9_image8,Anup holds up a photo of Dino with the original AI team
+Scene 9,scene9_image9,"Hussain (frowning): ""Should we confront him?"""
+Scene 9,scene9_image10,The team watches an old video of Dino discussing the AI project.
+Scene 9,scene9_image11,"As soon as the team discovered the truth, they went to Dino."
+Scene 10,scene10_image1,.
+Scene 10,scene10_image2,The team confronts Dino!
+Scene 10,scene10_image3,"Anup (accusing): ""You knew! You were part of this all along!"""
+Scene 10,scene10_image4,.
+Scene 10,scene10_image5,The team showing their disappointment.
+Scene 10,scene10_image6,.
+Scene 10,scene10_image7,.
+Scene 10,scene10_image8,"Anup (angrily showing files): ""Explain this Dino! We trusted you!"""
+Scene 10,scene10_image9,Dino feeling guilty.
+Scene 10,scene10_image10,Dino walking away..
+Scene 10,scene10_image11,"As soon as the team came back from Dino, they started their battle against the doppelganger AI."
+Scene 10,scene10_image12,Aadil and Hussain started debugging the code while panicking.
+Scene 10,scene10_image13,"Arvind, while watching the time, also started working quickly."
+Scene 10,scene10_image14,Aadil pointed out the important lines of code to break it down.
+Scene 10,scene10_image15,Dino in despair! 
+Scene 10,scene10_image16,Dino wants to correct things
+Scene 10,scene10_image17,Dino working to correct things
+Scene 12,scene12_image1,Pin-drop silence filled the room.
+Scene 12,scene12_image2,"Dino is on the path to fix the code, calling the team for their help."
+Scene 12,scene12_image3,Anup and Dino discussing.
+Scene 12,scene12_image4,"Anup called Aadil, Hussain, and Arvind."
+Scene 12,scene12_image5,Dino and the team discussing.
+Scene 12,scene12_image6,.
+Scene 12,scene12_image7,They figure out a breakthrough!
+Scene 12,scene12_image8,"With a surge of hope, team aimed to run the code flawlessly and dismantle the AI."
+Scene 12,scene12_image9,"Hurray! With tears of joy and hearts racing, they finally cracked the code, stopping the AI in its tracks."
+Scene 12,scene12_image10,.
+Scene 12,scene12_image11,.
+Scene 12,scene12_image12,.
+Scene 12,scene12_image13,.
+Scene 12,scene12_image14,VICTORY!! Thank you! We hope you enjoyed the movie!
